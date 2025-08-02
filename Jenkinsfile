@@ -6,7 +6,7 @@ pipeline {
   }
 
   tools {
-    nodejs 'Node 18' // make sure Jenkins has this tool named "Node 18"
+    nodejs 'Node 22' // make sure Jenkins has this tool named "Node 18"
   }
 
   stages {
